@@ -1,6 +1,6 @@
 {application, em,
  [
-  {description, ""},
+  {description, "Simple Event Meter"},
   {vsn, "1"},
   {registered, []},
   {applications, [
